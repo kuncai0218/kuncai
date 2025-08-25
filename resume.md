@@ -23,6 +23,6 @@ See skills summary  ·  skills.md
 
 Contact and links
 Email: REPLACE_WITH_YOUR_EMAIL  
-LinkedIn: https://www.linkedin.com/in/REPLACE_WITH_YOUR_ID  
+LinkedIn:https://www.linkedin.com/in/kuncai
 Download resume (PDF): assets/docs/resume.pdf
 
