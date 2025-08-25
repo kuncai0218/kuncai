@@ -1,23 +1,56 @@
 ---
-# front matter 可留空，Minimal 会用默认布局
+layout: default
+title: Kun Cai — GIS Portfolio
+description: A mobile-friendly portfolio of cartography, interactive web maps, an Android mapping app, and spatial analysis projects. Includes rich media, reports, and live demos.
 ---
 
-# Kun Cai — GIS Developer & Cartographer
+Welcome
+I am a GIS developer and cartographer who turns data into clear maps and applications. This portfolio collects graduate coursework and independent projects across cartography, web GIS, Android development, spatial databases, and analysis. It is easy to browse on mobile and simple to share with recruiters or collaborators.
 
-Mobile-friendly portfolio showcasing cartography, Web GIS, spatial analysis, and GeoAI work.  
-[Resume](resume.pdf) • [LinkedIn](https://www.linkedin.com/)  
+Navigation
+Projects  ·  achievements.md  ·  skills.md  ·  resume.md  ·  LinkedIn: https://www.linkedin.com/in/REPLACE_WITH_YOUR_ID
 
-## Projects
-### US Top 20 National Parks by Recreation Visits (2022)
-*GEOG 370 – Final Project • Role: Cartographer • Tools: ArcGIS Pro, Adobe Illustrator*  
-A thematic poster map ranking the 20 most-visited U.S. national parks with graduated symbols and annotated callouts.  
-![Poster: Top 20 US National Parks by 2022 visits](assets/img/national-parks.jpg)
+What you will find here
+- Print-ready cartography with downloadable PDFs
+- Interactive web maps and a live Android app demo
+- Spatial analysis reports with methods and results
+- A running list of achievements and a concise skills summary
+- A resume and a direct link to my LinkedIn profile
 
-**Methods:** NPS/Wikipedia 2022 visitation; graduated-symbol sizing; Albers Equal Area; legend/scale/credits.  
-**Findings:** Great Smoky Mountains #1 (~12.9M); strong UT–AZ corridor; urban-adjacent parks benefit from accessibility.  
-[View poster (PDF)](assets/docs/KUNCAI_FINAL2.pdf)
-Interactive Web Map — Add and Rate Attractions (ArcGIS JS 4.24)  
-A mobile-friendly map where users add attractions and leave comments/ratings; custom popups, Search/Locate, and a toggleable legend.  
-[Open live map](https://kuncai0218.github.io/Midtermproject_KunCai/) · [Source repo](https://github.com/kuncai0218/Midtermproject_KunCai/) · [Project page →](projects/Interactive-Web-Map.md)
+Featured projects
+(click an image to open the project page)
 
-[![App screenshot](assets/img/attractions-app.jpg "Alt: Madison basemap with rating/comment UI.")](https://kuncai0218.github.io/Midtermproject_KunCai/)
+[![TourGuideApp main UI](assets/img/tourguideapp-main.jpg "Android app with search, add-my-attraction, ratings, and a Top Attractions panel.")](projects/TourGuideApp.md)  
+TourGuideApp — Global attractions with ratings (Android + ArcGIS Runtime). Live demo video and public source code. The page includes an executive report PDF.
+
+[![Interactive Web Map](assets/img/Interactive-Web-Map.jpg "Web app with OSM attractions, custom editing, comments and ratings, Search and Locate widgets, and a toggleable legend.")](projects/Interactive-Web-Map.md)  
+Interactive Web Map — Add and Rate Attractions (ArcGIS JS 4.24). On-page iframe preview, custom popups, FeatureLayer editing, and a legend toggle.
+
+[![Wayfinding core map](assets/img/wayfinding-core.jpg "Science Hall third-floor core map in a chalkboard style with a clear route to the mezzanine and a 'You are here' marker.")](projects/GEOG475-Wayfinding-Science-Hall.md)  
+GEOG 475 — Science Hall Floor 3 and Mezzanine Wayfinding. A chalkboard-style map set with redesigned directional signage and a placement plan.
+
+[![National Parks poster](assets/img/national-parks.jpg "Poster ranking the 20 most-visited U.S. national parks in 2022 using graduated symbols and an Albers equal-area projection.")](projects/national-parks.md)  
+US Top 20 National Parks by Recreation Visits. Publication-ready poster with clear hierarchy and a downloadable PDF.
+
+All projects
+- National Parks poster → projects/national-parks.md
+- Interactive Web Map (ArcGIS JS) → projects/Interactive-Web-Map.md
+- TourGuideApp (Android) → projects/TourGuideApp.md
+- GEOG 475 Wayfinding → projects/GEOG475-Wayfinding-Science-Hall.md
+- GEOG 574 Asthma Research Database → projects/GEOG574-Asthma-Research.md
+- GEOG 578 Health Accessibility in Dane County → projects/GEOG578-Health-Accessibility-Dane-County.md
+
+How to use this site
+- Images include descriptive alt text for accessibility.
+- Reports and posters are available as PDFs in assets/docs.
+- Links to external demos and code are clearly labeled inside each project page.
+
+Assignment checklist
+- Showcases accomplishments and talents across six distinct projects
+- Media-rich: images, PDFs, an embedded video, and a live web map
+- Exhibits maps, web apps, an Android app, and GIS analysis work
+- Tracks achievements on a dedicated page and lists skills concisely
+- Provides a resume download and a direct link to LinkedIn
+
+Contact
+Email: caikun192@gmail.com
