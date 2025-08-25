@@ -5,6 +5,7 @@ description: Highlights across cartography, web GIS, Android development, databa
 ---
 
 Highlights timeline
+
 2025 — GEOG 578 project completed: tract-level healthcare accessibility in Dane County. Multi-ring buffer score, network distance to nearest facility, and correlation analysis; report PDF included in the portfolio.
 
 2025 —GEOG778 TourGuideApp (Android) shipped a public demo video and open-source repository. Users can search, add POIs, submit ratings and comments, and browse Top Attractions.
