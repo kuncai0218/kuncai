@@ -8,7 +8,7 @@ Welcome
 I am a GIS developer and cartographer who turns data into clear maps and applications. This portfolio collects graduate coursework and independent projects across cartography, web GIS, Android development, spatial databases, and analysis. It is easy to browse on mobile and simple to share.
 
 Navigation
-[Projects](#projects) · [Achievements](achievements.md) · [Skills](skills.md) · [Resume](resume.md) · LinkedIn: https://www.linkedin.com/in/REPLACE_WITH_YOUR_ID
+[Projects](#projects) · [Achievements](achievements.md) · [Skills](skills.md) · [Resume](resume.md) · LinkedIn: https://www.linkedin.com/in/kuncai
 
 What you will find here
 - Print-ready cartography with downloadable PDFs
