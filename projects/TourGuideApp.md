@@ -41,7 +41,7 @@ The app supports a complete search → inspect → review → compare loop on mo
 
 Deliverables recorded in this portfolio
 Source repository: https://github.com/kuncai0218/TourGuideApp
-Executive report: [.../assets/docs/GlobalTourGuide_Summary.pdf](.../assets/docs/GlobalTourGuide_Summary.pdf)
+Executive report: [../assets/docs/GlobalTourGuide_Summary.pdf](../assets/docs/GlobalTourGuide_Summary.pdf)
 Main UI screenshot: {{ site.baseurl }}/assets/img/tourguideapp-main.jpg
 Demo video: https://www.youtube.com/watch?v=T5Yvetkjbb4
 
