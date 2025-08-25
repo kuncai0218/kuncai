@@ -58,4 +58,4 @@ Assignment checklist
 - Provides a resume download and a direct link to LinkedIn
 
 Contact
-Email: REPLACE_WITH_YOUR_EMAIL
+Email: caikun192@gmail.com
